@@ -15,9 +15,9 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>Gatsby + Node.js (TypeScript) API Jey's Benchmark Test </title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>Gatsby + Node.js (TypeScript) API API Jey's Benchmark Test H1</h1>
       <h2>
         Deployed with{' '}
         <a
